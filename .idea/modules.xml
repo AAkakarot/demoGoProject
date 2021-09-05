@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/demo_project.iml" filepath="$PROJECT_DIR$/.idea/demo_project.iml" />
+      <module fileurl="file://$USER_HOME$/pkg/mongoDb/.idea/mongoDb.iml" filepath="$USER_HOME$/pkg/mongoDb/.idea/mongoDb.iml" />
+      <module fileurl="file://$USER_HOME$/pkg/redis/.idea/redis.iml" filepath="$USER_HOME$/pkg/redis/.idea/redis.iml" />
+    </modules>
+  </component>
+</project>
